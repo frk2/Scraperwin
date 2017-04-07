@@ -1,0 +1,6 @@
+C:\Users\Faraz\Downloads\Screen_Capturing_src\Taking Screen Captures\bin\Release\CodeReflection.ScreenCapturingDemo.exe
+C:\Users\Faraz\Downloads\Screen_Capturing_src\Taking Screen Captures\obj\Release\CodeReflection.ScreenCapturingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Faraz\Downloads\Screen_Capturing_src\Taking Screen Captures\obj\Release\CodeReflection.ScreenCapturingDemo.CaptureWindow.resources
+C:\Users\Faraz\Downloads\Screen_Capturing_src\Taking Screen Captures\obj\Release\CodeReflection.ScreenCapturingDemo.SpyWindow.resources
+C:\Users\Faraz\Downloads\Screen_Capturing_src\Taking Screen Captures\obj\Release\CodeReflection.ScreenCapturingDemo.csproj.GenerateResource.Cache
+C:\Users\Faraz\Downloads\Screen_Capturing_src\Taking Screen Captures\obj\Release\CodeReflection.ScreenCapturingDemo.exe

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReflection.ScreenCapturingDemo", "CodeReflection.ScreenCapturingDemo.csproj", "{B6B8E09E-4C03-41BC-A89C-393A78373C16}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		bob = bob
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B6B8E09E-4C03-41BC-A89C-393A78373C16}.bob.ActiveCfg = Release|.NET
+		{B6B8E09E-4C03-41BC-A89C-393A78373C16}.bob.Build.0 = Release|.NET
+		{B6B8E09E-4C03-41BC-A89C-393A78373C16}.Debug.ActiveCfg = Debug|.NET
+		{B6B8E09E-4C03-41BC-A89C-393A78373C16}.Debug.Build.0 = Debug|.NET
+		{B6B8E09E-4C03-41BC-A89C-393A78373C16}.Release.ActiveCfg = Release|.NET
+		{B6B8E09E-4C03-41BC-A89C-393A78373C16}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
